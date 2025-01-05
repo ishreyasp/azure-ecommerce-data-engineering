@@ -5,7 +5,7 @@ This project showcases a robust data engineering pipeline using Azure services t
 It demonstrates the use of Azure Data Factory, Databricks, Azure Data Lake Storage Gen 2, MongoDB, GitHub, MySQL, and Azure Synapse Analytics within a Medallion architecture.
 
 ## System Architecture
-![alt text](system_architecture-1.png)
+![alt text](system_architecture.png)
 
 ## Tools and Technologies
  - Azure Data Factory: Automates data ingestion from GitHub and MySQL.
